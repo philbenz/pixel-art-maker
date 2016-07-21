@@ -1,0 +1,33 @@
+
+
+.pixel {
+  float: left;;
+  border: 1px solid #bbbbbb;
+  border-radius: 0%;
+  height: 12px;
+  width: 12px;
+
+}
+
+.paint-color {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+.red {
+  background: red;
+
+}
+
+.orange {
+  background: orange;
+
+}
+
+.yellow {
+  background: yellow;
+}
